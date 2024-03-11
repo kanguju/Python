@@ -1,7 +1,7 @@
 x = 1000
 print(x)
 
-y = 200
+y = 2000
 print(y)
 
 print(x + y)
